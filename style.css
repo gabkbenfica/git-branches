@@ -1,6 +1,6 @@
 
 main{
-    background-color: rgb(215, 215, 215);
+    background-color: rgb(217, 216, 216);
     text-align: center;
     padding: 30px;
     border-radius: 20px;
@@ -8,4 +8,5 @@ main{
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px;
+    box-shadow: 1px 10px 100px rgba(38, 38, 38, 0.2);
 }
